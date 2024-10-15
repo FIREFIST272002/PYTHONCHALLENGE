@@ -1,0 +1,9 @@
+name="Vaibhav"
+age=22
+price=23.5
+print(name)
+print(age)
+print(price)
+print(type(age))
+print(type(age))
+print(type(price))

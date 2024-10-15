@@ -1,0 +1,13 @@
+name="Vaibhav"
+age=22
+old=False
+price=23.5
+a=None
+print(name)
+print(age)
+print(price)
+print(type(age))
+print(type(age))
+print(type(price))
+print(type(old))
+print(type(a))
